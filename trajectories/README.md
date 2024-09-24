@@ -8,9 +8,9 @@
 
 *Cluster analysis:* Sequences are clustered to identify common trajectories. We opt for a ward clustering approach and test cluster solutions from 1-20. Using common diagnostics, a four-cluster solution is identified as most appropriate, minimising within- and between-cluster variation. 
 
-*Naming clusters:* We name the trajectories: ‘Cooler extremes’, ‘Moderately cooler extremes’, ‘Moderately warmer extremes’, and ‘Warmer extremes’. Names are based on the temperatures and change over time and are relative to one another.
+*Naming clusters:* We name the trajectories based on the temperatures and change over time and are relative to one another.
 
-**Data download:** 
+**Data download:** The trajectories or clusters that each grid square is classified into are available here. In the dataset 'Cluster 1' refers to 'Cooler extremes', 'Cluster 2' to 'Moderately cooler extremes', 'Cluster 3' to 'Moderately warmer extremes', 'Cluster 4' to 'Warmer extremes'.
 
 <img src="https://github.com/user-attachments/assets/0fdfc99b-e1ef-4ee5-a617-249dfe1c6903" width=80% height=80%>
 
