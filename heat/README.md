@@ -11,3 +11,5 @@
 *Clip to coast:* We clip the climate projection data to the boundary of England and Wales.
 
 📊 **Data download:** Our resultant maximum summer temperature projection data [is available here](https://github.com/CaitHRobinson/heat-housing-trajectories/blob/main/heat/AllYears_EngandWales.csv), or can be [downloaded directly from the Met Office](http://data.ceda.ac.uk/badc/ukcp18/data/land-cpm/uk/5km/rcp85/01/tasmax/seas/v20210615/). 
+
+<img src= "https://github.com/user-attachments/assets/4d274ffc-f395-48ff-97ca-acfb0dd46dc7">
