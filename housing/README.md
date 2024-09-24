@@ -12,7 +12,6 @@
 
 📊 **Data download:** Final EPC housing variables aggregated to LSOA scale are [available here](https://github.com/CaitHRobinson/heat-housing-trajectories/blob/main/housing/LSOA_EPC_Variables.csv) for comparison with heat trajectory data.
 
-https://github.com/user-attachments/assets/3440032f-273c-4e31-8b42-d72082fb4a04
-
+<img src= "https://github.com/user-attachments/assets/3440032f-273c-4e31-8b42-d72082fb4a04">
 
 
