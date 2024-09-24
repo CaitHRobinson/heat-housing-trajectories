@@ -12,4 +12,4 @@ The analysis breaks down into three sections.
 
 *[Housing:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/housing)* Contextualising trajectories with data about housing from Energy Performance Certificates and other demographic datasets for neighbourhoods.
 
-![Figure6](https://github.com/user-attachments/assets/a0c983ae-5bfb-4e56-b662-36bbab9348ea)
+<img src="https://github.com/user-attachments/assets/a0c983ae-5bfb-4e56-b662-36bbab9348ea" width=50% height=50%>
