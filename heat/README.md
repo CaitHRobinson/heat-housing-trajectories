@@ -10,4 +10,4 @@
 
 *Clip to coast:* We clip the climate projection data to the boundary of England and Wales.
 
-**Data availability:** Due to the size of the dataset, the underlying temperature data can be [downloaded from Met Office](http://data.ceda.ac.uk/badc/ukcp18/data/land-cpm/uk/5km/rcp85/01/tasmax/seas/v20210615/). 
+📊 **Data download:** Due to the size of the dataset, the underlying temperature data can be [downloaded from Met Office](http://data.ceda.ac.uk/badc/ukcp18/data/land-cpm/uk/5km/rcp85/01/tasmax/seas/v20210615/). 
