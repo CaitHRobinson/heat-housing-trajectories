@@ -6,7 +6,7 @@ We apply sequence and cluster analysis to Met Office climate projections to iden
 🧱 **Repository structure:** 
 The analysis breaks down into three sections.
 
-*[Heat:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/heat)*
+*[Heat:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/heat)* Accessing summer maximum temperature data from Met Office UK Climate Projections 2018.
 
 *[Trajectories:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/trajectories)*
 
