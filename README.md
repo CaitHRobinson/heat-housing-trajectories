@@ -8,6 +8,6 @@ The analysis breaks down into three sections.
 
 *[Heat:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/heat)* Accessing summer maximum temperature data from Met Office UK Climate Projections 2018.
 
-*[Trajectories:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/trajectories)*
+*[Trajectories:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/trajectories)* Using sequence and cluster analysis to identify common temperature trajectories.
 
-*[Housing:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/housing)*
+*[Housing:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/housing)* Contextualising trajectories with data about housing from Energy Performance Certificates and other demographic datasets for neighbourhoods.
