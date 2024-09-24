@@ -1,4 +1,4 @@
-# Temperature from from the UK Climate Projections 2018
+# Temperature data from UK Climate Projections 2018
 
 💬 **Language:** R
 
