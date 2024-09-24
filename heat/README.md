@@ -1,6 +1,6 @@
 # Temperature from from the UK Climate Projections 2018
 
-💬**Language:** R
+💬 **Language:** R
 
 📌 **Section summary:** Climate change researchers have made sustained efforts to quantify and project futures at increasingly high resolution, fine grain scales. We analyse Met Office UKCP18 climate projections.
 
