@@ -2,7 +2,7 @@
 
 💬 **Language:** R 
 
-📌**Section summary:** 
+📌**Section summary:** Heat trajectories are juxtaposed with housing data for ~15 million individual properties detailing type, quality, and characteristics, derived from Energy Performance Certificates, as well as other socio-demographic data. 
 
 *EPC data:* EPC data is available at the Unique Property Reference Number property scale from [Open Data Communities](https://epc.opendatacommunities.org/). It contains information about property energy performance, structural characteristics and typical energy costs. Certificates are issued when a property is bought, sold, or rented. Our dataset includes 15,763,320 domestic properties with an EPC between 1st September 2012 and 1st September 2022, retaining only recent certificates for each property. EPC variables are recalculated for LSOA using percentages and z-scores.
 
