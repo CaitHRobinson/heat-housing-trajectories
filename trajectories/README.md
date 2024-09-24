@@ -11,3 +11,6 @@
 *Naming clusters:* We name the trajectories: ‘Cooler extremes’, ‘Moderately cooler extremes’, ‘Moderately warmer extremes’, and ‘Warmer extremes’. Names are based on the temperatures and change over time and are relative to one another.
 
 **Data download:** 
+
+<img src="https://github.com/user-attachments/assets/0fdfc99b-e1ef-4ee5-a617-249dfe1c6903" width=80% height=80%>
+
