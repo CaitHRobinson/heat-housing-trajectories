@@ -10,7 +10,7 @@
 
 *Naming clusters:* We name the trajectories based on the temperatures and change over time and are relative to one another.
 
-**Data download:** The trajectories or clusters that each grid square is classified into are available here. In the dataset 'Cluster 1' refers to 'Cooler extremes', 'Cluster 2' to 'Moderately cooler extremes', 'Cluster 3' to 'Moderately warmer extremes', 'Cluster 4' to 'Warmer extremes'.
+📊 **Data download:** The trajectories or clusters that each grid square is classified into are [available here](https://github.com/CaitHRobinson/heat-housing-trajectories/blob/main/trajectories/trajectory_5km.csv). In the dataset 'Cluster 1' refers to 'Cooler extremes', 'Cluster 2' to 'Moderately cooler extremes', 'Cluster 3' to 'Moderately warmer extremes', 'Cluster 4' to 'Warmer extremes'.
 
 <img src="https://github.com/user-attachments/assets/0fdfc99b-e1ef-4ee5-a617-249dfe1c6903" width=80% height=80%>
 
