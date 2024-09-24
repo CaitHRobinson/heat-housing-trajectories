@@ -4,7 +4,10 @@ We apply [sequence analysis](http://traminer.unige.ch/) to [Met Office climate p
 💬 **Language:** R
 
 🧱 **Repository structure:** 
-The analysis breaks down into three sections. 
+The analysis breaks down into three sections.
+
 *[Heat:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/heat)*
+
 *[Trajectories:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/trajectories)*
+
 *[Housing:](https://github.com/CaitHRobinson/heat-housing-trajectories/tree/main/housing)*
