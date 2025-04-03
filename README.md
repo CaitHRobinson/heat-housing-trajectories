@@ -1,6 +1,8 @@
 # Uneven ambient futures: Intersecting heat and housing trajectories in England and Wales
 We apply sequence and cluster analysis to Met Office climate projections to identify and characterise potential trajectories of extreme summer temperatures. Heat trajectories are juxtaposed with housing data for ~15 million individual properties detailing type, quality, and characteristics, derived from Energy Performance Certificates, as well as other socio-demographic data. Our approach is deliberately somewhat ‘speculative’ - a rehearsal spaces of sorts for different ways of responding to the prospect of uncertain futures. This enables us to consider different vulnerabilities that are likely to be reinforced, produced, or remediated by extreme summer temperatures. 
 
+📝 **Accompanying research paper:** [https://doi.org/10.1111/tran.12737](https://doi.org/10.1111/tran.12737)
+
 💬 **Language:** R
 
 🧱 **Repository structure:** 
